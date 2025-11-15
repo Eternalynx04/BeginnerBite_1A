@@ -1,7 +1,6 @@
 # BeginnerBytes - PDF Analyzer (Adobe Hackathon 2025)
 
 **Team Name:** beginnerbytes
-**Members:** Revanth, Shivam, Ashutosh
 **Challenge:** Adobe India Hackathon - Connecting the Dots
 
 Automatically extract hierarchical headings (Title, H1, H2, H3) from raw PDF files and generate structured JSON outlines.
